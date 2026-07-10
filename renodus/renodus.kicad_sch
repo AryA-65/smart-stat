@@ -9774,7 +9774,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:SW_SPST_CK_KMS2xxGP"
+		(property "Footprint" "Button_Switch_SMD:SW_Push_1P1T_NO_CK_KMR2"
 			(at 74.93 46.99 0)
 			(hide yes)
 			(show_name no)
@@ -11152,10 +11152,10 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
+		(in_bom no)
+		(on_board no)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "28cd3e4e-ade8-44f5-91f7-a7a54ca17040")
 		(property "Reference" "Z2"
 			(at 41.91 115.57 0)
@@ -11167,8 +11167,8 @@
 				)
 			)
 		)
-		(property "Value" "3n6H"
-			(at 40.64 118.11 0)
+		(property "Value" "TBD"
+			(at 41.91 118.11 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects

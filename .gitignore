@@ -1,0 +1,12 @@
+# History Folders
+.history/
+**/.history/
+
+# Logs
+*.log
+
+# Lock Files
+*.lck
+
+# Backups
+*-backups/
